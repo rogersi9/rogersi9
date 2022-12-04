@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roger</h1>
 <h3 align="center">A passionate Full Stack developer from Montreal, Canada</h3>
 
-- 🔭 I’m a third year software engineering student **@ Concordia University**
+🔭 I’m a third year software engineering student **@ Concordia University**
 
-- 🌱 I’m currently learning **Design patterns and software architecture**
+🌱 I’m currently learning **Design patterns and software architecture**
 
-- 📫 How to reach me **roger.sioufi@hotmail.com**
+📫 How to reach me **roger.sioufi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
