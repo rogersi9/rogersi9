@@ -3,7 +3,7 @@
 
 - 🔭 I’m a third year software engineering student **@ Concordia University**
 
-- 🌱 I’m currently learning **Design Patterns and Software Architecture**
+- 🌱 I’m currently learning **Data Systems**
 
 - 📫 How to reach me **roger.sioufi[at]hotmail[dot]com**
 
