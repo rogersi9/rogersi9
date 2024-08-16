@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roger</h1>
 <h3 align="center">A passionate Full Stack developer from Montreal, Canada</h3>
 
-- 🔭 I’m a third year software engineering student **@ Concordia University**
-
 - 🌱 I’m currently learning **Big Data Analytics**
 
 - 📫 How to reach me **roger.sioufi[at]hotmail[dot]com**
